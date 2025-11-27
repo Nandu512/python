@@ -1,0 +1,5 @@
+pen
+pencil
+mobile
+laptop
+soap
